@@ -1,6 +1,6 @@
-# quizapp
-
-A new Flutter project.
+SEC - App Development using Flutter
+Roll no. 20221422
+Examination Roll No. 22020570020
 
 ## Getting Started
 
